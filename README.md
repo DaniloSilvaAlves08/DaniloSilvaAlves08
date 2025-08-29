@@ -34,17 +34,6 @@ fascinado por tecnologia e desenvolvimento web/mobile. Estou sempre em busca de 
 
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Danilo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaniloSilvaAlves&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloSilvaAlves&layout=compact&theme=radical)
-
-</div>
 
 ---
 
